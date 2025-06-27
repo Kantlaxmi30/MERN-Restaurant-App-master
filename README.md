@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **MERN stack Restaurant App**
 
 #### Project link: https://swirly-food-delivery-app.vercel.app/
@@ -48,3 +49,6 @@ I have created my own server using **NodeJS** and **ExpressJS** and **MongoDB**(
 
 
 
+=======
+# MERN-Restaurant-App-master
+>>>>>>> b414a0f04f93c577f8006b64f3faac5260d07edd
